@@ -19,10 +19,11 @@
 
 ## 📌 Featured Projects
 
-- 🚀 [Repository Python](https://github.com/MarCalll/Deposito_MarcoCaldarola) - Esercizi svolti con python.
-- 🛠️ [Repository Java](https://github.com/MarCalll/Caldarola-Marco) - Esercizi svolti con Java.
-- 🔗 [Progetto in Angular](https://github.com/MarCalll/NuovoFrontEnd) - Progetto usato inizialmente per esercitarmi con Angular.
-- 🔗 [CV](https://github.com/MarCalll?tab=repositories)
+- [Repository Python](https://github.com/MarCalll/Deposito_MarcoCaldarola) - Esercizi svolti con Python.
+- [Repository Java](https://github.com/MarCalll/Caldarola-Marco) - Esercizi svolti con Java.
+- [Repository Springboot](https://github.com/MarCalll/MarcoCaldarolaEE) - Esercizi svolti con Springboot.
+- [Progetto in Angular](https://github.com/MarCalll/NuovoFrontEnd) - Progetto usato inizialmente per esercitarmi con Angular.
+- [CV](https://github.com/MarCalll/MarCalll/blob/main/CANVA%20MARCO%20CALDAROLA%2030-10.pdf)
 
 ## 🎓 Education
 
