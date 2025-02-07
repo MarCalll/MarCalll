@@ -6,15 +6,12 @@
 ---
 
 ## 🚀 Tech Stack
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![PL/SQL](https://img.shields.io/badge/PL/SQL-003B57?style=for-the-badge&logo=oracle&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -24,8 +21,8 @@
 
 - 🚀 [Repository Python](https://github.com/MarCalll/Deposito_MarcoCaldarola) - Esercizi svolti con python.
 - 🛠️ [Repository Java](https://github.com/MarCalll/Caldarola-Marco) - Esercizi svolti con Java.
-- 🔗 [Progetto in Angular](https://github.com/MarCalll?tab=repositories) - Progetto usato inizialmente per esercitarmi con Angular.
----
+- 🔗 [Progetto in Angular](https://github.com/MarCalll/NuovoFrontEnd) - Progetto usato inizialmente per esercitarmi con Angular.
+- 🔗 [CV](https://github.com/MarCalll?tab=repositories)
 
 ## 🎓 Education
 
