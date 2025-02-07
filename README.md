@@ -23,7 +23,7 @@
 - [Repository Java](https://github.com/MarCalll/Caldarola-Marco) - Esercizi svolti con Java.
 - [Repository Springboot](https://github.com/MarCalll/MarcoCaldarolaEE) - Esercizi svolti con Springboot.
 - [Progetto in Angular](https://github.com/MarCalll/NuovoFrontEnd) - Progetto usato inizialmente per esercitarmi con Angular.
-- [CV](https://github.com/MarCalll/MarCalll/blob/main/CANVA%20MARCO%20CALDAROLA%2030-10.pdf)
+- [CV](https://github.com/MarCalll/MarCalll/blob/99f2c5ae702b58a9de935b4ae482307d3c0a150d/CANVA%20MARCO%20CALDAROLA%2030-10.pdf)
 
 ## 🎓 Education
 
