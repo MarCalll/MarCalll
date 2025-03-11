@@ -1,4 +1,4 @@
-## 💻 Software Developer | Angular & Spring Boot Enthusiast | Tech Explorer  
+## 💻 Data Analyst | Python & Machine Learning
 Sono Marco Caldarola e ho conseguito un diploma ITS in sviluppo software con il massimo dei voti (100 e lode) e attualmente sto completando una laurea triennale in ingegneria informatica presso l'Università Mercatorum. Ho inoltre completato un corso di Python, in cui ho approfondito Machine Learning, Data Analysis e programmazione orientata agli oggetti (OOP). 
 
 Ho lavorato per sei mesi presso Exprivia, specializzandomi nell'uso di Angular per il frontend e Spring Boot per il backend.  
