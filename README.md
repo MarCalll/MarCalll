@@ -1,8 +1,7 @@
 ## 💻 Data Analyst | DATA ENGINEER
 ---
 ## 📌 Projects  
-- [Repository Python](https://github.com/MarCalll/Deposito_MarcoCaldarola) - Esercizi e progetti realizzati con Python, tra cui Machine Learning e Data Analysis.  
-- [Repository Java](https://github.com/MarCalll/Caldarola-Marco) - Esercizi svolti con Java.
+- [Repository Progetto Universitario](https://github.com/MarCalll/Progetto_Finale) - Progetto sviluppato durante la laurea triennale e successivamente presentato come tesi finale.
 ---
 ## 🔥 GitHub Stats  
 ![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarCalll&show_icons=true&theme=tokyonight)
